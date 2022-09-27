@@ -11,3 +11,4 @@ branch modify delect add and so on
 master test 合并冲突测试
 hot-fix test **********
 111111111111111111111111111111
+222222222222222222222222222222  by 远程仓库clone
